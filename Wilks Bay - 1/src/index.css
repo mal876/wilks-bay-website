@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Autour One', sans-serif;
+}
+
+header{
+    font-family: 'Autour One', sans-serif;
+}
+
+header ul li{
+    font-size: 13px;
+}
